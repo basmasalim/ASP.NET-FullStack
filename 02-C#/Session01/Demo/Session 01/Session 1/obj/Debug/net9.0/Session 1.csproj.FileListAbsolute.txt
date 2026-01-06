@@ -1,0 +1,14 @@
+E:\Basma\Dot Net\Session 1\Session 1\bin\Debug\net9.0\Session 1.exe
+E:\Basma\Dot Net\Session 1\Session 1\bin\Debug\net9.0\Session 1.deps.json
+E:\Basma\Dot Net\Session 1\Session 1\bin\Debug\net9.0\Session 1.runtimeconfig.json
+E:\Basma\Dot Net\Session 1\Session 1\bin\Debug\net9.0\Session 1.dll
+E:\Basma\Dot Net\Session 1\Session 1\bin\Debug\net9.0\Session 1.pdb
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.AssemblyInfoInputs.cache
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.AssemblyInfo.cs
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.csproj.CoreCompileInputs.cache
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.dll
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\refint\Session 1.dll
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.pdb
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\Session 1.genruntimeconfig.cache
+E:\Basma\Dot Net\Session 1\Session 1\obj\Debug\net9.0\ref\Session 1.dll

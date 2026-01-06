@@ -1,0 +1,14 @@
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\bin\Debug\net9.0\Demo.exe
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\bin\Debug\net9.0\Demo.deps.json
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\bin\Debug\net9.0\Demo.dll
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\bin\Debug\net9.0\Demo.pdb
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.dll
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\refint\Demo.dll
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.pdb
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+D:\Cycle 43 .Net\Group 06\C#\Session 02\Day02 Solution\Demo\obj\Debug\net9.0\ref\Demo.dll
